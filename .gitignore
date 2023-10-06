@@ -1,3 +1,6 @@
 test*
-logs
+*logs*
 *__pycache__*
+airflow.db
+*.lock*
+airflow/standalone_admin_password.txt

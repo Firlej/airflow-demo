@@ -4,3 +4,6 @@ test*
 airflow.db
 *.lock*
 airflow/standalone_admin_password.txt
+terraform/.terraform/providers/registry.terraform.io/hashicorp/google/4.84.0/linux_amd64/terraform-provider-google_v4.84.0_x5
+terraform/terraform.tfstate.backup
+airflow/airflow-webserver.pid

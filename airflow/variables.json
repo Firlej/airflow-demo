@@ -1,0 +1,9 @@
+{
+    "my_var": "lolooollo",
+    "PROJECT_ID": "smiling-rhythm-400807",
+    "BUCKET_NAME": "logs-123214455",
+    "DATASET_NAME": "test",
+    "TABLE_NAME": "logs",
+    "LOGS_FOLDER": "/home/oskar/logs",
+    "LOGS_JSON_FOLDER": "/home/oskar/logs/logs_json"
+}
